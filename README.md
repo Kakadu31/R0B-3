@@ -22,6 +22,7 @@ Some of the parts are recycled from an InMoov-Robot.
 
 **Arm:**<br />
   -1x HK 15298B Hobby Servo-Motor<br />
+  -1x Robot-Gripper<br />
 
 **Controller, Electronics, etc..:**<br />
   -1x Jetson Nano<br />
@@ -29,7 +30,7 @@ Some of the parts are recycled from an InMoov-Robot.
   -2x Double rocker Switch<br />
   -1x SODIAL(R) 3V-12V LM386 Super MINI Amplifier Board<br />
   -1x DC-DC converter 150 W (12V to 6V)<br />
-  -2x Webcam Hercules HD Twist (with modified InMooV eye-mechanism<br />
+  -2x Webcam Hercules HD Twist (with modified InMooV eye-mechanism)  or Luxonics - OAK-D-Lite  (will be decided)<br />
   -1x 6V Lead-acid Battery Capacity Indicator Display Board<br />
   -1x 12V Lead-acid Battery Capacity Indicator Display Board<br />
   -1x XBox Kinect<br />
