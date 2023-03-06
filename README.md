@@ -5,43 +5,43 @@ This is a project for a robot I started building a while ago. I will start getti
 
 Some of the parts are recycled from an InMoov-Robot.
 
-**Hardware:**
+**Hardware:**<br />
 
-**Chassis:**
-various 2020 + 3030 aluminum profiles
-2x shock absorber (wheelchair) + 2x shock absorber (bicycle)
-2x wheelchair motors (24V)
-2x wheelchair wheels - they are worn out, so the robot is stoppable by hand.
-2x caster wheels
-several shafts + shaft supports + aluminum brackets (90° for profiles and self bended)
+**Chassis:**<br />
+  -various 2020 + 3030 aluminum profiles<br />
+  -2x shock absorber (wheelchair) + 2x shock absorber (bicycle)<br />
+  -2x wheelchair motors (24V)<br />
+  -2x wheelchair wheels - they are worn out, so the robot is stoppable by hand.<br />
+  -2x caster wheels<br />
+  -several shafts + shaft supports + aluminum brackets (90° for profiles and self bended)<br />
 
-**Upper Body**
-4x 2020 aluminimum pfofiles (ca. 26 cm)
-2x laser cut clear acrylic sheets to hold electornics
-3D-Printed parts (stl-files will be uploaded)
+**Upper Body:**<br />
+  -4x 2020 aluminimum pfofiles (ca. 26 cm)<br />
+  -2x laser cut clear acrylic sheets to hold electornics<br />
+  -3D-Printed parts (stl-files will be uploaded)<br />
 
-**Arm**
-1x HK 15298B Hobby Servo-Motor
+**Arm:**<br />
+  -1x HK 15298B Hobby Servo-Motor<br />
 
-**Controller, Electronics, etc..**
-Jetson Nano
-2x Arduino with InMoov-NervoBoard shields.
-2x Double rocker Switch
-1x SODIAL(R) 3V-12V LM386 Super MINI Amplifier Board
-1x DC-DC converter 150 W (12V to 6V)
-2x Webcam Hercules HD Twist (with modified InMooV eye-mechanism
-1x 6V Lead-acid Battery Capacity Indicator Display Board
-1x 12V Lead-acid Battery Capacity Indicator Display Board
-1x XBox Kinect
-1x Rousberry Pi touchscreen display
-1x Slamtec RPLIDAR A1 
+**Controller, Electronics, etc..:**<br />
+  -1x Jetson Nano<br />
+  -2x Arduino with InMoov-NervoBoard shields.<br />
+  -2x Double rocker Switch<br />
+  -1x SODIAL(R) 3V-12V LM386 Super MINI Amplifier Board<br />
+  -1x DC-DC converter 150 W (12V to 6V)<br />
+  -2x Webcam Hercules HD Twist (with modified InMooV eye-mechanism<br />
+  -1x 6V Lead-acid Battery Capacity Indicator Display Board<br />
+  -1x 12V Lead-acid Battery Capacity Indicator Display Board<br />
+  -1x XBox Kinect<br />
+  -1x Rousberry Pi touchscreen display<br />
+  -1x Slamtec RPLIDAR A1<br />
 
-**Power**
-6V 12AH Akku AGM GEL Batterie
-12V Sealed Lead-Acid Batttery
+**Power:**<br />
+  -6V 12AH Akku AGM GEL Batterie<br />
+  -12V Sealed Lead-Acid Batttery<br />
 
-**Miscellaneous**
-1x Dead-Man swithc with key
-2x Distribution Rail (12V + 6V Power)
-1x Fuse-Box (for 4 car fuses)
-Various Cables and Connectors
+**Miscellaneous:**<br />
+  -1x Dead-Man swithc with key<br />
+  -2x Distribution Rail (12V + 6V Power)<br />
+  -1x Fuse-Box (for 4 car fuses)<br />
+  -Various Cables and Connectors<br />
