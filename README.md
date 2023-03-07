@@ -36,6 +36,8 @@ Some of the parts are recycled from an InMoov-Robot.
   -1x XBox Kinect<br />
   -1x Rousberry Pi touchscreen display<br />
   -1x Slamtec RPLIDAR A1<br />
+  -1x Sabertooth Dual Motorcontroller 25A 6V-30V<br />
+  -1x USB Hub with power<br />
 
 **Power:**<br />
   -6V 12AH Akku AGM GEL Batterie<br />
