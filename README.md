@@ -47,4 +47,5 @@ Some of the parts are recycled from an InMoov-Robot.
   -1x Dead-Man swithc with key<br />
   -2x Distribution Rail (12V + 6V Power)<br />
   -1x Fuse-Box (for 4 car fuses)<br />
-  -Various Cables and Connectors<br />
+  -Various cables and connectors<br />
+  -Various bolts and nuts<br />
