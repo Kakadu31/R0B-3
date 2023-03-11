@@ -5,6 +5,9 @@ This is a project for a robot I started building a while ago. I will start getti
 
 Some of the parts are recycled from an InMoov-Robot.
 
+<img src="https://raw.githubusercontent.com/Kakadu31/R0B-3/main/Hardware/Images/Front.jpg"  width="300" height="400">
+<img src="https://raw.githubusercontent.com/Kakadu31/R0B-3/main/Hardware/Images/Side.jpg"  width="400" height="300">
+
 **Hardware:**<br />
 
 **Chassis:**<br />
