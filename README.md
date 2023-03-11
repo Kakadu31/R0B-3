@@ -7,7 +7,7 @@ Some of the parts are recycled from an InMoov-Robot.
 
 <p float="middle">
   <img src="https://raw.githubusercontent.com/Kakadu31/R0B-3/main/Hardware/Images/Front.jpg"  width="300" height="400">
-  <img src="https://raw.githubusercontent.com/Kakadu31/R0B-3/main/Hardware/Images/Side.jpg"  width="400" height="300">
+  <img src="https://raw.githubusercontent.com/Kakadu31/R0B-3/main/Hardware/Images/Side.jpg"  width="533" height="400">
 </p>
   
 **Hardware:**<br />
